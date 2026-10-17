@@ -4,11 +4,14 @@ ashen-countdown-6days-slide2.jpg
 ashen-countdown-6days-slide3.jpg
 ashen-countdown-6days-slide4.jpg
 ashen-countdown-6days-slide5.jpg
+ashen-stars-reel-15s-teal-lake.mp4
+ashen-stars-teal-lake-end-card.png
 p002-tt-trope.mp4
 p005-fb-page-promo.mp4
 p005-fb-reel-teal.mp4
 p006-tt-launch-day.mp4
 p006-tt-launch-teal.mp4
+p007-ig-reel-12s-thelastlake.mp4
 p007-ig-reel-4days-teal.mp4
 p007-ig-reel-4days.mp4
 p008-tt-refuses.mp4
